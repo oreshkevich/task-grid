@@ -2,13 +2,8 @@
   box-sizing: border-box;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 body {
   position: relative;
-  margin: 0;
   font-family: 'Roboto', sans-serif;
   width: 100%;
   font-size: 62.5%;
